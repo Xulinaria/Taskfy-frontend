@@ -1,0 +1,139 @@
+{
+  "cursor": {
+    "stack": []
+  },
+  "recordMap": {
+    "__version__": 3,
+    "block": {
+      "0050e992-aeb9-4895-a7a1-25ffd7bf4cb4": {
+        "value": {
+          "value": {
+            "id": "0050e992-aeb9-4895-a7a1-25ffd7bf4cb4",
+            "version": 16,
+            "type": "page",
+            "properties": {
+              "title": [["123"]]
+            },
+            "content": [
+              "e5959da6-a55d-402f-8424-01179fbdf228",
+              "d98ba157-df6c-45c1-affc-2450d092f44a"
+            ],
+            "permissions": [
+              {
+                "role": "editor",
+                "type": "user_permission",
+                "user_id": "2713edc7-ab7c-45d1-b778-f78bc719026c"
+              }
+            ],
+            "created_time": 1709305172181,
+            "last_edited_time": 1709305261677,
+            "parent_id": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939",
+            "parent_table": "space",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "space_id": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939"
+          },
+          "role": "editor"
+        }
+      },
+      "e5959da6-a55d-402f-8424-01179fbdf228": {
+        "value": {
+          "value": {
+            "id": "e5959da6-a55d-402f-8424-01179fbdf228",
+            "version": 67,
+            "type": "text",
+            "properties": {
+              "title": [
+                ["dsd "],
+                ["asd ", [["b"]]],
+                ["dsadsa "],
+                ["dsa", [["h", "pink"]]]
+              ]
+            },
+            "format": {
+              "use_crdt": false
+            },
+            "created_time": 1709305181952,
+            "last_edited_time": 1709305281707,
+            "parent_id": "0050e992-aeb9-4895-a7a1-25ffd7bf4cb4",
+            "parent_table": "block",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "space_id": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939"
+          },
+          "role": "editor"
+        }
+      },
+      "d98ba157-df6c-45c1-affc-2450d092f44a": {
+        "value": {
+          "value": {
+            "id": "d98ba157-df6c-45c1-affc-2450d092f44a",
+            "version": 3,
+            "type": "text",
+            "created_time": 1709305190838,
+            "last_edited_time": 1709305190838,
+            "parent_id": "0050e992-aeb9-4895-a7a1-25ffd7bf4cb4",
+            "parent_table": "block",
+            "alive": true,
+            "created_by_table": "notion_user",
+            "created_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "space_id": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939"
+          },
+          "role": "editor"
+        }
+      }
+    },
+    "space": {
+      "f02f0402-7ba1-4ddf-968a-7e81fb3c8939": {
+        "spaceId": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939",
+        "value": {
+          "value": {
+            "id": "f02f0402-7ba1-4ddf-968a-7e81fb3c8939",
+            "version": 7,
+            "name": "Visa Hom's Notion",
+            "permissions": [
+              {
+                "role": "editor",
+                "type": "user_permission",
+                "user_id": "2713edc7-ab7c-45d1-b778-f78bc719026c"
+              }
+            ],
+            "icon": "https://lh3.googleusercontent.com/-gbSyrRmwEYw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucnzOV-ASScPv0Z9aH7o0mVUY5zhxA/photo.jpg",
+            "beta_enabled": false,
+            "created_time": 1680071446602,
+            "last_edited_time": 1699507632598,
+            "created_by_table": "notion_user",
+            "created_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "last_edited_by_table": "notion_user",
+            "last_edited_by_id": "2713edc7-ab7c-45d1-b778-f78bc719026c",
+            "plan_type": "personal",
+            "invite_link_enabled": true,
+            "settings": {
+              "is_teams_enabled": false,
+              "enable_ai_feature": true,
+              "space_survey_data": {
+                "intent": {
+                  "value": "personal",
+                  "version": 1,
+                  "collected_at": 1680071446602,
+                  "collected_from": "onboarding"
+                }
+              },
+              "disable_ai_feature": false
+            },
+            "subscription_tier": "free"
+          },
+          "role": "editor"
+        }
+      }
+    }
+  }
+}
