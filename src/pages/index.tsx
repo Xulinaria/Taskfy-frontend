@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main>
+      <main className="dark:bg-black">
         <div className="flex flex-col justify-center items-center mt-[100px]">
           <h1 className="w-[750px] leading-[70px] text-center font-semibold text-secondaryBlue text-[70px] mt-[140px]">
             <span className="text-mainBlue">Организуйте</span> задачи под любую
