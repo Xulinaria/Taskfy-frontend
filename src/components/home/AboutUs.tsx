@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-export default function About() {
+export default function AboutUs() {
   return (
-    <div className="">
-      <div className="mt-[100px] mx-auto w-[1360px] flex justify-between">
+    <div className="mt-[100px] mx-auto w-[1360px]">
+      <div className="flex justify-between">
         <div className="bg-white rounded-[30px] p-[20px] shadow-secondaryShadow">
           <div className="flex items-center">
             <Image
@@ -77,6 +77,7 @@ export default function About() {
           </p>
         </div>
       </div>
+
       <div className="mt-[20px] flex justify-center">
         <button className="mx-[20px] p-[10px] bg-mainBlue rounded-full">
           <svg
