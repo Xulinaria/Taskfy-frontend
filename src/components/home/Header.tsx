@@ -1,4 +1,4 @@
-import SwitchTheme from './SwitchTheme'
+import SwitchTheme from '../SwitchTheme'
 
 export default function Header() {
   return (
