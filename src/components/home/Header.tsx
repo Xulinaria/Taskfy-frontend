@@ -2,7 +2,7 @@ import SwitchTheme from '../SwitchTheme'
 
 export default function Header() {
   return (
-    <header className="flex justify-between items-center mx-[40px] mt-[40px]">
+    <header className="w-[1360px] flex justify-between items-center mx-auto mt-[40px]">
       <div className="flex items-center">
         <div className="">
           <svg
